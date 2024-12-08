@@ -63,3 +63,32 @@ Html
 </html>
 
 Style.css
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+ color: white;
+ background-color: black;
+}
+
+a {
+
+color: white;
+font-weight: bold;
+ transition: color 0.3s ease;
+}
+
+a:hover {
+ color: hotpink;
+}
+
+footer {
+text-align: center;
+padding: 1.5rem;
+background-color: hotpink;
+color: white;
+}
+
+footer .socials a {
+margin: 0 0.5rem;
+font-weight: bold;
+}
