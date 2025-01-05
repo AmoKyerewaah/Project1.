@@ -7,3 +7,4 @@ Een moderne fanwebsite gewijd aan de artiesten van Opium, waaronder Playboi Cart
 Auteur
 Amo Kyerewaah
 Voor vragen of feedback, neem contact op via [jouw email/gebruikersnaam].
+helaas kan je nog niet de website op je telefoon hebben
