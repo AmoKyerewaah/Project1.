@@ -1,0 +1,135 @@
+Html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="OpiumVerse - De fanwebsite voor Playboi Carti, Ken Carson, Destroy Lonely en de Homixide Gang">
+    <title>OpiumVerse</title>
+    <link rel="stylesheet" href="CSS/styles3.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="/download (1).jpg" alt="OpiumVerse Logo">
+        </div>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#discography">Discography</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </header>
+
+    <main>
+        <section id="home" class="hero">
+            <h1>Welcome to OpiumVerse</h1>
+            <p>Your gateway to the world of Opium artists and culture.</p>
+        </section>
+
+        <section id="about">
+            <h2>About OpiumVerse</h2>
+            <p>OpiumVerse is the ultimate fan website for Playboi Carti, Ken Carson, Destroy Lonely, and the Homixide Gang. We bring you the latest news, exclusive merchandise, and much more!</p>
+            <h2>Opium Members</h2>
+            <div class="logo">
+                <img src="/pbc.jpg" alt="Playboi Carti">
+                <p>Playboi Carti is a rapper known for his simple beats and catchy, repetitive songs. His music has a fun, energetic vibe, and he doesn't focus too much on deep lyrics. He became popular with his albums *Playboi Carti* (2017) and *Die Lit* (2018). People like his voice, style, and the way his songs make you feel. His fullname is Jordan Carter. </p>
+                <div class="logo">
+<img src="/KC.jpg" alt="Ken Carson">
+<p>Ken Carson is a rapper and a close collaborator of Playboi Carti. He is known for his high-energy, bouncy trap beats and catchy hooks. His music is similar to Carti’s, with a focus on fun vibes, hard beats, and simple, hype lyrics. He gained attention with his mixtapes *Boy* and *X* (2022). Fans like his sound for its hype, party energy, and connection to the "Playboi Carti" style. His fullname is Kenyetta  Lee Frazier Jr.</p>
+<div class="logo">
+<img src="/DL.jpg" alt="Destroy Lonely">
+<p>Destroy Lonely is a rapper and member of Playboi Carti's *Opium* label. His music mixes dark, atmospheric beats with a chill yet energetic vibe. He’s known for his unique voice and moody, experimental sound. His project *Nolovelost* (2020) and album *Destiny* (2021) helped him gain a following. Like Carti and Ken Carson, Destroy Lonely's songs focus on energy, vibes, and catchy melodies rather than deep lyrics. Fans like him for his creativity and fresh take on the trap scene. His name is Bobby Wardell Sandimanie III. </p>
+<div class="logo">
+<img src="/HXG.jpg" alt="Homixide Gang">
+<p>Homixide Gang is a rap collective, mainly known for their connections to Playboi Carti and the Opium label. The group has a dark, underground sound with heavy use of distorted, atmospheric beats. Their style is similar to Carti's, with a focus on energy, ad-libs, and vibe over complex lyrics. They gained attention with tracks like "Homixide" and their collaborations with Carti and other artists. Fans like them for their gritty, experimental approach to trap and their strong connection to the modern underground rap scene. They names are  Keyon Thomas And Demetrius Chatman. 
+</p>
+ </section>
+
+        <section id="discography">
+            <h2>Discography</h2>
+            <p>Explore all albums and singles.</p>
+            <a href="discography.html">View Discography</a>
+        </section>
+
+      
+
+        <section id="news">
+            <h2>Latest News</h2>
+            <p>Stay up-to-date with the latest releases, interviews, and updates from your favorite Opium artists!</p>
+            <a href="news.html">View Newspage</a>
+        </section>
+
+    
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions, please reach out to us via email at <a href="mailto:contact@opiumverse.com">contact@opiumverse.com</a>.</p>
+        </section>
+
+        
+
+    <footer>
+        <p>©2024 OpiumVerse. All Rights Reserved.</p>
+        <div class="socials">
+            <a href="https://x.com/playboicarti " target="PBC">X(Twitter)</a>
+            <a href="https://www.instagram.com/playboicarti/" target="PBC">Instagram</a>
+            <a href="https://www.youtube.com/@playboicarti" target="PBC">YouTube</a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+Html Files
+1.
+<a href="https://open.spotify.com/playlist/18dDUQG8xIUTXbVJKDkI31" target="All Songs">Click Here For al the songs!</a>
+<link rel="stylesheet" href="style6.css">
+<div class="logo">
+<img src="/spotify.png" alt="spotify">
+
+2.
+<a href="https://www.instagram.com/worldofopium/" target="News">Click Here For Daily News!</a>
+<link rel="stylesheet" href="style6.css">
+<div class="logo">
+<img src="/insta.jpg" alt="Instagram">
+
+JavaScript 
+const button = document.getElementsById(`knop`)
+
+const toggleButton 
+
+
+Style.css
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+footer {
+    text-align: center;
+    padding: 1.5rem;
+    background-color: hotpink;
+    color: white;
+}
+
+footer .socials a {
+    margin: 0 0.5rem;
+    font-weight: bold;
+}
+
